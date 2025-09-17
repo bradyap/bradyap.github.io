@@ -10,7 +10,10 @@ source "https://rubygems.org"
 
 # adjusted for use with gh pages
 #gem "jekyll", "~> 4.4.1"
-gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
+
+# for minimal mistakes theme
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
