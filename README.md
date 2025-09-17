@@ -1,1 +1,1 @@
-use github pages they said
+Use github pages they said
