@@ -13,4 +13,4 @@ I spend most of my time learning and experimenting with different languages, fra
 
 ---
 
-Please don't hesitate to reach out to me at [me@bradyap.dev](mailto:me@bradyap.dev) or download a copy of my resume [here](/assets/files/brady_pettengill_resume.pdf).
+Please don't hesitate to reach out to me via email at [me@bradyap.dev](mailto:me@bradyap.dev). You can find a copy of my resume [here](/assets/files/brady_pettengill_resume.pdf).
