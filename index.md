@@ -9,7 +9,7 @@ permalink: /
 
 Hi, I’m Brady! I'm a student at George Mason University working toward a B.S. in Computational and Data Sciences and a minor in Computer Science. I’ve always loved solving problems and turning ideas into things that people can actually use, which naturally led me to programming and building software.
 
-I spend most of my time learning and experimenting with different languages, frameworks, and tools — everything from data science and analytics to full-stack development and app design. What excites me most is being able to create something that makes life easier, smarter, or just more fun!
+I spend most of my time learning and experimenting with different languages, frameworks, and tools - everything from data science and analytics to full-stack development and app design. What excites me most is being able to create something that makes life easier, smarter, or just more fun!
 
 ---
 
